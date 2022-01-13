@@ -1,0 +1,1 @@
+Time to parse through some files! Is this an efficient way of doing it? I have no idea, I'm surprised it even works.
